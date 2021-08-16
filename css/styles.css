@@ -1,1 +1,25 @@
-
+body {
+  background-color: #C2FFD9;
+}
+h1 {
+  color: #512D6D;
+}
+h2 {
+  color: #512D6D;
+}
+h3 {
+  color: #512D6D;
+}
+h4 {
+  color: #512D6D;
+}
+h5 {
+  color: #512D6D;
+}
+hr{
+  border-style: dotted none none none;
+  border-color: #00C1D4;
+  width: 8%;
+  border-width: 8px;
+  align-items: center;
+}
